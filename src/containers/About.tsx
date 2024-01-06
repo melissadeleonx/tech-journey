@@ -19,23 +19,14 @@ const About = () => {
       <main className="flex gap-16 items-center lg:items-start flex-col lg:flex-row">
         <div className="space-y-4 lg:w-3/5">
           <p>
-            Hi, my name is Gaurav Sarage, an artist as well as crazy full stack
-            web developer who wants to explore every tech stack.
+          Hello! Welcome to my digital space. I'm Melissa, and while there may not be anything extraordinarily special about me, my aim is to develop the extraordinary. 
+          With over 10 years of experience in Customer Service and Business Development, it was only last year that I discovered my true passion for Programming. 
           </p>
           <p>
-            Fast-forward to today, and I’ve had the privilege of working at a
-            start-up -{' '}
-            <Link
-              href="https://about.airmenus.in"
-              target="_blank"
-              className="text-accent"
-            >
-              AirMenus
-            </Link>
-            .
+          My dream is to craft an invention that screams 'future'. Imagine a creation so groundbreaking that it reshapes how we live. The future is calling, and innovation awaits!     
           </p>
           <p>
-            My goal is to become a blockchain developer and settle for a good remote job.
+            Join me on this exciting journey of turning passion into proficiency!
           </p>
 
           {list && (

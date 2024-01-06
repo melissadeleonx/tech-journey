@@ -79,7 +79,7 @@ export const heroSection: HeroSectionType = {
   title: 'Melissa De Leon.',
   tagline: 'and this is my tech journey',
   description:
-    "I'm an SEO and customer service professional turned programmer. Continuing to excel in both worlds, currently I am studying software and web development with Harvard's CS50 courses on edX.",
+    "I transitioned from a background in SEO and customer service to embark on a journey into the world of programming. I'm currently honing my software and web development skills through Harvard's CS50 courses on edX. As part of my learning journey, I'm actively engaged in building small programs to enhance my proficiency in coding.",
   specialText: "Junior Full-Stack Developer",
 
   cta: {
