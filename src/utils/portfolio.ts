@@ -143,6 +143,7 @@ export const skillsSection: SkillsSectionType = {
         { name: 'react.js', icon: 'logos:react' },
         { name: 'next.js', icon: 'logos:nextjs-icon' },
         { name: 'tailwind CSS', icon: 'logos:tailwindcss-icon' },
+
         { name: 'database', icon: 'vscode-icons:file-type-sql' },
       ],
     },
@@ -355,6 +356,8 @@ export const socialSection: SocialSectionType = {
 // Footer Section
 
 export const footerSection: FooterSectionType = {
-  title: 'Design Inspiration @Brittany Chiang',
-  link: 'https://github.com/bchiang7',
+  title: 'Copyright © 2023 Melissa De Leon MIT License'<br>,
+  link: 'https://opensource.org/licenses/MIT',
+  licenseTitle: 'Forked version from Brittany Chiang with contributions from Gaurav Sarage',
+  licenseLink: 'https://github.com/bchiang7',
 };

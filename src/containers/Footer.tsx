@@ -13,6 +13,15 @@ const Footer = () => {
       >
         {footerSection.title}
       </a>
+      <br />
+      <a
+        href={footerSection.link}
+        target="_blank"
+        rel="noopener noreferrer"
+        className="hover:text-accent transition"
+      >
+        {footerSection.licenseTitle}
+      </a>
     </footer>
   );
 };
