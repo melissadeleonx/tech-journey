@@ -15,12 +15,12 @@ const Footer = () => {
       </a>
       <br />
       <a
-        href={footerSection.link}
+        href={footerSection.link2}
         target="_blank"
         rel="noopener noreferrer"
         className="hover:text-accent transition"
       >
-        {footerSection.licenseTitle}
+        {footerSection.title2}
       </a>
     </footer>
   );

@@ -69,10 +69,9 @@ export interface SocialSectionType {
   socialLinks: SocialLinkType[];
 }
 
-export interface LicenseSectionType extends Section {
-  link: string;
-}
-
 export interface FooterSectionType extends Section {
+  title: string;
   link: string;
+  title2: string;
+  link2: string;
 }
