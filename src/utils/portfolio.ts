@@ -126,9 +126,9 @@ export const skillsSection: SkillsSectionType = {
         dark: '/lotties/frontend-dark.json',
       },
       points: [
-        'Building responsive static websites using Next.js',
-        'Building responsive Single Page Apps in React.js',
-        'Building RESTful APIs in Express',
+        'Building responsive static websites with HTML, CSS, and JavaScript, leveraging frontend frameworks including React, Next.js, Gatsby, Tailwind CSS, and Bootstrap.',
+        'Developing robust backend applications and servers using Python, Flask, and SQL.',
+        'Pursuing continuous education through Harvard CS50 Web Development (cs50w) and CS50 Python (cs50p) courses.',
       ],
       softwareSkills: [
         // iconify icons: https://icon-sets.iconify.design/
@@ -143,7 +143,6 @@ export const skillsSection: SkillsSectionType = {
         { name: 'react.js', icon: 'logos:react' },
         { name: 'next.js', icon: 'logos:nextjs-icon' },
         { name: 'tailwind CSS', icon: 'logos:tailwindcss-icon' },
-        { name: 'redux', icon: 'logos:redux' },
         { name: 'database', icon: 'vscode-icons:file-type-sql' },
       ],
     },
