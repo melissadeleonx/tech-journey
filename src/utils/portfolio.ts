@@ -79,8 +79,8 @@ export const heroSection: HeroSectionType = {
   title: 'Melissa De Leon.',
   tagline: 'and this is my tech journey',
   description:
-    "I'm an SEO and customer service professional turned junior full-stack developer. Continuing to excel in both worlds, currently I am studying software and web development with Harvard's CS50 courses on edX.",
-  specialText: "Organizer @The Phoenix Guild - Pune",
+    "I'm an SEO and customer service professional turned programmer. Continuing to excel in both worlds, currently I am studying software and web development with Harvard's CS50 courses on edX.",
+  specialText: "Junior Full-Stack Developer",
 
   cta: {
     title: 'see my resume',
@@ -94,17 +94,22 @@ export const heroSection: HeroSectionType = {
 export const aboutSection: AboutSectionType = {
   title: 'about me',
   list: {
-    title: 'Here are a few technologies I’ve been working with recently:',
+    title: 'Here are a few technologies I’ve been studying and working with recently:',
     items: [
+      'C',
+      'Python',
+      'Flask',
+      'SQL',
+      'Javascript',
+      'HTML',
+      'CSS',
+      'Boostrap',
       'Next.js',
       'React.js',
       'TailwindCSS',
-      'Solidity',
-      'Cairo',
-      'Hardhat',
     ],
   },
-  img: '/gaurav-sarage.jpg',
+  img: '/myimage.jpg',
 };
 
 // * Skills Section
