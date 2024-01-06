@@ -20,33 +20,33 @@ import { getId } from './helper';
  */
 
 export const socialLinks: StringKeyValueType = {
-  instagram: 'https://www.instagram.com/gauravv1902',
-  twitter: 'https://twitter.com/0xgauravv',
-  github: 'https://github.com/gaurav-sarage',
-  linkedin: 'https://www.linkedin.com/in/gaurav-sarage/',
+  instagram: 'https://www.instagram.com/melissadeleonx',
+  twitter: 'https://twitter.com/melissadeleonx',
+  github: 'https://github.com/melissadeleonx',
+  linkedin: 'https://www.linkedin.com/in/melissadeleonx/',
 };
 
 export const author = {
-  name: 'Gaurav Sarage',
-  email: 'gauravsarage.1902@gmail.com',
+  name: 'Melissa De Leon',
+  email: 'primavita19@gmail.com',
 };
 
 export const seoData = {
-  title: 'Gaurav Sarage | Full-Stack Developer',
+  title: 'Melissa De Leon | Junior Full-Stack Developer',
   description:
-    'Gaurav Sarage is a full-stack developer who specializes in building (and occasionally designing) exceptional visual interfaces.',
+    'Documenting my tech journey — code, challenges, and victories. Through this webpage, I am tracking my progress and projects as a junior full-stack developer. Currently mastering skills with Harvard CS50 on edX.',
   author: author.name,
   image:
     'https://user-images.githubusercontent.com/85820227/231264058-df236c47-a8d2-4077-9fa6-3577aa18e8ca.png',
   url: '',
   keywords: [
-    'Gaurav',
-    'Gaurav Sarage',
-    '@Gaurav Sarage',
-    'Gaurav Sarage',
+    'Melissa',
+    'Melissa De Leon',
+    'melissadeleon',
+    'melissadeleonx',
     'Portfolio',
-    'Gaurav Portfolio ',
-    'Gaurav Sarage Portfolio',
+    'Melissa De Leon Portfolio ',
+    'Melissa De Leon Tech Journey',
   ],
 };
 
@@ -75,11 +75,11 @@ export const navbarSection: NavbarSectionType = {
 // * Hero Section
 
 export const heroSection: HeroSectionType = {
-  subtitle: "Hello fren 👋, I'm ",
-  title: 'Gaurav Sarage.',
-  tagline: 'I create visually appealing interfaces on the web',
+  subtitle: "Ciao and Mabuhay 🐱, I'm ",
+  title: 'Melissa De Leon.',
+  tagline: 'and this is my tech journey',
   description:
-    "I'm a passionate Fullstack Web Developer having an experience of creating web applications using ReactJS & NextJS. ",
+    "I'm an SEO and customer service professional turned junior full-stack developer. Continuing to excel in both worlds, currently I am studying software and web development with Harvard's CS50 courses on edX.",
   specialText: "Organizer @The Phoenix Guild - Pune",
 
   cta: {
