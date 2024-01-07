@@ -226,7 +226,7 @@ export const experienceSection: ExperienceSectionType = {
     },
 
     {
-      company: 'Business Process Outsourcing companies',
+      company: 'BPO Companies',
       companyUrl: 'https://melissadeleonx.github.io/',
       role: 'Customer Service Representative',
       started: 'June 2007',
