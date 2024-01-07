@@ -19,7 +19,7 @@ const Contact = () => {
         <p key={i}>{paragraph}</p>
       ))}
 
-      <Button type="link" size="lg" href="#contact" center className="mt-12">
+      <Button type="link" size="lg" href={link} center className="mt-12">
         Let's Connect
       </Button>
     </Wrapper>
