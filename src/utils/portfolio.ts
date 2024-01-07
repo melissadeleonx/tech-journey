@@ -79,8 +79,8 @@ export const heroSection: HeroSectionType = {
   title: 'Melissa De Leon.',
   tagline: 'and this is my tech journey',
   description:
-    "I transitioned from a background in SEO and customer service to embark on a journey into the world of programming. I'm currently honing my software and web development skills through Harvard's CS50 courses on edX. As part of my learning journey, I'm actively engaged in building small programs to enhance my proficiency in coding.",
-  specialText: "Junior Full-Stack Developer",
+    "I transitioned from a background in SEO and customer service to embark on a journey into the world of programming. As part of my coding adventure, I'm actively engaged in building small programs to enhance my proficiency in software and web development.",
+  specialText: "Junior Full-Stack Developer, currently studying Harvard CS50 courses and open to freelance opportunities",
 
   cta: {
     title: 'see my resume',
@@ -107,6 +107,7 @@ export const aboutSection: AboutSectionType = {
       'Next.js',
       'React.js',
       'TailwindCSS',
+      'GIT',
     ],
   },
   img: '/myimage.jpg',
@@ -149,15 +150,15 @@ export const skillsSection: SkillsSectionType = {
     },
     {
       id: getId(),
-      title: 'blockchain development',
+      title: 'Future Goals',
       lottie: {
         light: '/lotties/ethereum.json',
         dark: '/lotties/ethereum-dark.json',
       },
       points: [
-        'Experience in developing Smart Contract using Solidity & Ethereum',
-        'Developing NFT Smart Contracts using ERC-721 Token Standard',
-        'Building Dapps with React.js & Solidity using Web3.js',
+        'Master the Front-end and Back-end Development aspects of web development.',
+        'Explore Blockchain Technology and understand its applications.',
+        'Gain expertise in cybersecurity and delve into the complexities of low-level programming languages, particularly focusing on languages like C.',
       ],
       softwareSkills: [
         { name: 'ethereum', icon: 'logos:ethereum' },
@@ -171,26 +172,26 @@ export const skillsSection: SkillsSectionType = {
 // * Experience Section
 
 export const experienceSection: ExperienceSectionType = {
-  title: "My experience and volunteering",
+  title: "My Career Highlights",
   experiences: [
     {
-      company: 'AirMenus',
-      companyUrl: 'https://about.airmenus.in',
-      role: 'Frontend Developer Intern',
-      started: 'Oct 2022',
+      company: 'Freelance Web Developer',
+      companyUrl: 'https://github.com/melissadeleonx',
+      role: 'Full-Stack Developer',
+      started: 'December 2023',
       upto: 'Present',
       tasks: [
-        "Built 15+ dynamic web applications using React and Next.js, resulting in a 15% increase in user engagement.                      Collaborated closely 'with' the design team to implement pixel-perfect UI/UX designs, consistently delivering projects           on-time.",
-        "Developed and maintained responsive web applications for clients in the food and hospitality industry, enhancing their           online presence and customer engagement. Implemented Tailwind CSS to streamline the development process, reducing CSS            codebase by 20%",
-        "Collaborated with clients to gather project requirements and translate them into actionable technical tasks, ensuring            client expectations were met or exceeded.",
+        "Actively building and deploying websites on platforms such as Github, Vercel, Netlify, Wordpress, and Siteground.",
+        "Recently completed Harvard University's cs50 online course. Applying acquired skills in critical thinking and proficiency in languages including C, Python, Flask, SQL, and Javascript.",
+        "Open to exploring new freelance opportunities.",
       ],
     },
     {
-      company: 'StarkCon',
-      companyUrl: 'https://starkcon.com',
-      role: 'StarkCon Cairo Fellow',
-      started: 'January 2023',
-      upto: 'March 2023',
+      company: 'Self-employed',
+      companyUrl: 'https://www.visitsicilynow.com/',
+      role: 'SEO and Social Media Manager',
+      started: 'January 2019',
+      upto: 'February 2021',
       tasks: [
         "Selected for the first cohort of StarkCon Cairo Fellow program and got trained on blockchain, Cairo and started building on StarkNet. ",
         "Underwent a 5 week program under mentorship of professionals from StarkNet ecosystem. ",

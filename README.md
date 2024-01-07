@@ -1,9 +1,9 @@
 <h1 align="center">
-  gaurav-sarage.vercel.app
+  tech-journey-melissadeleonx.vercel.app
 </h1>
 
 <p align="center">
-  A portfolio website i.e. <a href="https://gaurav-sarage.vercel.app" target="_blank">gaurav-sarage.vercel.app</a> built with <a href="https://nextjs.org/" target="_blank">Next.js</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
+  A portfolio and tech journey website i.e. <a href="https://gaurav-sarage.vercel.app" target="_blank">tech-journey-melissadeleonx.vercel.app</a> built with <a href="https://nextjs.org/" target="_blank">Next.js</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/License-MIT-brightgreen"/ >
   </a>
   <img src="https://img.shields.io/badge/Version-1.3.1-blue"/ >
-</p>
+</p>  
 
 ![gaurav-sarage-nextjs-portfolio](https://user-images.githubusercontent.com/85820227/231833369-cecb13b5-3598-4f0a-b7dc-460a1e206e93.png)
 
