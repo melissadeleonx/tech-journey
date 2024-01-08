@@ -300,33 +300,6 @@ export const projectsSection: ProjectsSectionType = {
       year: 2022,
       tags: ['HTML', 'CSS'],
     },
-    {
-      id: getId(),
-      name: 'countries app using REST API',
-      url: 'https://country-api-react-app.netlify.app/',
-      repo: 'https://github.com/gaurav-sarage/country-api',
-      img: 'https://user-images.githubusercontent.com/85820227/231487782-eb60fb21-32ae-4012-9190-7c42be3d18e8.png',
-      year: 2022,
-      tags: ['React', 'Sass'],
-    },
-    {
-      id: getId(),
-      name: 'GitHub User Search',
-      url: 'https://gaurav-sarage.github.io/github-user-search/',
-      repo: 'https://github.com/gaurav-sarage/github-user-search',
-      img: 'https://user-images.githubusercontent.com/85820227/231501132-067311ef-2222-46d0-a20a-f0bf48827e01.png',
-      year: 2021,
-      tags: ['HTML', 'CSS', 'JavaScript'],
-    },
-    {
-      id: getId(),
-      name: 'Hackathon Portfolio',
-      url: 'https://gaurav-sarage.github.io/webathon-portfolio/',
-      repo: 'https://github.com/gaurav-sarage/webathon-portfolio',
-      img: 'https://user-images.githubusercontent.com/85820227/233788920-7c76e976-2f42-4750-a6ce-ad0fb2eb405d.png',
-      year: 2022,
-      tags: ['HTML', 'CSS', 'JavaScript'],
-    },
   ],
 };
 
