@@ -1,9 +1,9 @@
 <h1 align="center">
-  tech-journey-melissadeleonx.vercel.app
+<a href="https://tech-journey-melissadeleonx.vercel.app" target="_blank">My Tech Journey - Melissa De Leon</a>
 </h1>
 
 <p align="center">
-  A portfolio and tech journey website i.e. <a href="https://gaurav-sarage.vercel.app" target="_blank">tech-journey-melissadeleonx.vercel.app</a> built with <a href="https://nextjs.org/" target="_blank">Next.js</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
+  A portfolio and tech journey website i.e. <a href="https://tech-journey-melissadeleonx.vercel.app" target="_blank">tech-journey-melissadeleonx.vercel.app</a> built with love LOL! <a href="https://nextjs.org/" target="_blank">Next.js</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Version-1.3.1-blue"/ >
 </p>  
 
-![gaurav-sarage-nextjs-portfolio](https://user-images.githubusercontent.com/85820227/231833369-cecb13b5-3598-4f0a-b7dc-460a1e206e93.png)
+![melissadeleonx-techjourney-portfolio](https://raw.githubusercontent.com/melissadeleonx/tech-journey/main/public/melissadeleonx-techjourney.png)
 
 ## Sections
 
@@ -33,22 +33,82 @@
 - [Iconify](https://icon-sets.iconify.design/) - For icons
 - [Lottie Files](https://lottiefiles.com/) - For illustrations
 
-## How To Use
+# Melissa De Leon's Coding Journey
+
+Hello, I'm Melissa De Leon, and this is my coding/tech journey repository. I'm passionate about technology and coding, and I'm excited to share my progress and experiences with you.
+
+## About Me
+
+- **Name:** Melissa De Leon
+- **Location:** Palermo, Italy
+- **GitHub:** https://github.com/melissadeleonx
+- **First Iteration of my Portfolio Website** https://melissadeleonx.github.io/
+- **Second Iteration** https://tech-journey-melissadeleonx.vercel.app
+
+## Coding Journey
+
+I'm currently on a journey to become a proficient programmer and computer scientist. My coding journey began with a strong desire to explore the endless possibilities of the digital world. I'm committed to learning and growing in this field, and this repository serves as a documentation of my progress and experiences.
+
+## Learning Goals
+
+Master the Fundamentals: I aim to have a profound understanding of programming fundamentals, data structures, algorithms, and core concepts. This forms the foundation of my coding knowledge.
+
+Programming Languages: I want to become proficient in one or more programming languages commonly used in my area of interest. Understanding these languages deeply will enable me to create impactful technology.
+
+Problem-Solving Skills: I am dedicated to developing strong problem-solving skills. This involves not just coding but also understanding problems deeply, breaking them down into manageable parts, and devising efficient solutions.
+
+Projects and Applications: I aspire to create meaningful projects that showcase my skills and address real-world problems. These projects can range from web applications to software tools with practical applications.
+
+Open Source Contribution: I plan to contribute to open-source projects to collaborate with others, gain experience, and give back to the coding community.
+
+Deep Understanding of Technology: My goal is to understand not just how to code but also the underlying principles of technology. This knowledge will help me create innovative and impactful solutions.
+
+Ethical and Responsible Development: I prioritize ethical and responsible coding practices. I want to ensure that the technology I create serves a positive purpose and benefits humanity.
+
+Continual Learning: I embrace the idea that learning in the technology field is a lifelong journey. I will stay updated with industry trends and emerging technologies.
+
+Mentoring and Sharing Knowledge: As I gain expertise, I intend to mentor others and share my knowledge. This will help me solidify my understanding while assisting others on their learning journeys.
+
+Innovation for Humanity: I am committed to making a difference through technology by developing projects and solutions that address societal or environmental challenges. I aim to leave a positive legacy for future generations.
+
+These learning goals are a personal roadmap for my coding journey, helping me stay focused and motivated. As I achieve these goals, I'll continue setting new ones to keep challenging myself and making a meaningful impact in the world of coding and technology.
+
+## Projects
+
+I'm hoping to fill this website with inspiring and meaningful projects in the future. Stay tuned for exciting updates!
+
+Feel free to explore my repositories to see the code and details of each project.
+
+## Current Focus
+
+I am currently an online student, actively studying coding and computer science. I'm dedicated to mastering the principles of computer science and honing my coding skills. My goal is to contribute positively to the world through technology.
+
+## Connect with Me
+
+I welcome collaborations, discussions, and connecting with fellow developers and learners. If you'd like to get in touch, feel free to reach out:
+
+- Website - [tech-journey-melissadeleonx.vercel.app](https://tech-journey-melissadeleonx.vercel.app/)
+- Github - [@melissadeleonx](https://github.com/melissadeleonx)
+- LinkedIn - [@melissa-deleon](https://www.linkedin.com/in/melissadeleonx/)
+- Twitter - [@melissadeleonx](https://twitter.com/melissadeleonX)
+- Email - [primavita19@gmail.com](mailto:primavita19@gmail.com)
+
+## THE FUN PART: How To Use?
 
 ###### To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [yarn](https://yarnpkg.com) installed on your computer).
 
 1. Fork this repository and clone the project
 
-###### Please give me proper credit by linking back to [gaurav-sarage.vercel.app](https://gaurav-sarage.vercel.app/).
+###### Please give me proper credit by linking back to [tech-journey-melissadeleonx.vercel.app](https://tech-journey-melissadeleonx.vercel.app/) and please include the original owner of the design [https://brittanychiang.com/](https://brittanychiang.com/)
 
 ```bash
-  git clone https://github.com/gaurav-sarage/portfolio-website.git
+  git clone https://github.com/melissadeleonx/tech-journey
 ```
 
 2. Go to the project directory
 
 ```bash
-  cd portfolio-website
+  cd tech-journey
 ```
 
 3. Install dependencies
@@ -64,10 +124,20 @@
 ```
 
 - To change the content, edit `src/utils/portfolio.ts`
+```bash
+nano src/utils/portfolio.ts
+```
+
+Replace `nano` with your preferred text editor, like `vim` or `code`.
+
 
 - To change the **resume**, change `/public/resume.pdf` with your resume (name must be `resume.pdf`)
+```bash
+mv path/to/your/resume.pdf public/resume.pdf
+```
 
 - To change the **About Section**, edit `src/containers/About.tsx`
+
 
 - To change the theme, edit `src/styles/globals.css`
 
@@ -79,19 +149,12 @@
 - [ ] Separate route (archive) for all the projects with filters
 - [ ] Switch to Next 13
 
-## Contact
 
-- Website - [gaurav-sarage.vercel.app](https://gaurav-sarage.vercel.app)
-- Github - [@gaurav-sarage](https://github.com/gaurav-sarage)
-- LinkedIn - [@gaurav-sarage](https://www.linkedin.com/in/gaurav-sarage/)
-- Twitter - [@gauravsarage4](https://www.twitter.com/gauravsarage4)
-- Instagram - [@gauravsarage_19](https://www.instagram.com/gauravsarage_19)
 
 ## Acknowledgements
 
-- [https://developer-portfolio-1hanzla100.vercel.app/](https://developer-portfolio-1hanzla100.vercel.app/) - Design Inspiration
-- [https://brittanychiang.com/](https://brittanychiang.com/) - Design Inspiration
+- Forked version of [https://brittanychiang.com/](https://brittanychiang.com/) with very significant contributions of [Gaurav Sarage](https://github.com/gaurav-sarage/gauravsarage/)
 
 ## Show Your Support
 
-Give a ⭐️ if you liked this project!
+Give a ⭐️ if you liked this project! Or message me on X!
