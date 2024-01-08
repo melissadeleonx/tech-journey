@@ -342,7 +342,7 @@ export const socialSection: SocialSectionType = {
 
 export const footerSection: FooterSectionType = {
   title: 'Copyright © 2023 Melissa De Leon MIT License',
-  link: 'https://opensource.org/licenses/MIT',
+  link: 'https://github.com/melissadeleonx/tech-journey',
   title2: 'Forked version from Brittany Chiang with contributions from Gaurav Sarage',
-  link2: 'https://github.com/bchiang7',
+  link2: 'https://brittanychiang.com/',
 };
