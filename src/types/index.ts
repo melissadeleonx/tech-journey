@@ -30,6 +30,7 @@ export type ProjectType = {
   url: string;
   year: number;
   img: string;
+  alt: string;
   tags: string[];
   repo: string;
 };
