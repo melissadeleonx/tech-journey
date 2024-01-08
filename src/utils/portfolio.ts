@@ -38,7 +38,7 @@ export const seoData = {
   author: author.name,
   image:
     '/melissadeleonx-techjourney.png',
-  url: '',
+  url: 'https://tech-journey-melissadeleonx.vercel.app/',
   keywords: [
     'Melissa',
     'Melissa De Leon',
