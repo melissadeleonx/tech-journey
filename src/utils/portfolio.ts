@@ -37,7 +37,7 @@ export const seoData = {
     'Documenting my tech journey — code, challenges, and victories. Through this webpage, I am tracking my progress and projects as a junior full-stack developer. Currently mastering skills with Harvard CS50 on edX.',
   author: author.name,
   image:
-    'https://user-images.githubusercontent.com/85820227/231264058-df236c47-a8d2-4077-9fa6-3577aa18e8ca.png',
+    '/melissadeleonx-techjourney.png',
   url: '',
   keywords: [
     'Melissa',
