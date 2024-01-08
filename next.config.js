@@ -26,7 +26,7 @@ module.exports = {
         headers: [
           {
             key: 'Cache-Control',
-            value: 'public, max-age=3600', // Set the duration in seconds (1 hour in this example)
+            value: 'public, max-age=3600',
           },
         ],
       },

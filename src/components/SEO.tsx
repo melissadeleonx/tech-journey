@@ -7,7 +7,7 @@ type Props = {
   image: string;
   url: string;
   keywords: string[];
-};
+};  
 
 const SEO = (seoData: Props) => {
   return (
