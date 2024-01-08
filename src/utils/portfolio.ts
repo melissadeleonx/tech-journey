@@ -253,7 +253,7 @@ export const experienceSection: ExperienceSectionType = {
 // * Projects Section
 
 export const projectsSection: ProjectsSectionType = {
-  title: 'my projects',
+  title: 'Projects and Certificates',
   projects: [
     {
       id: getId(),
@@ -275,12 +275,12 @@ export const projectsSection: ProjectsSectionType = {
     },
     {
       id: getId(),
-      name: 'ProShop MERN eCommerce',
-      url: 'https://github.com/gaurav-sarage/ecommerce',
+      name: 'v1 Portfolio Website',
+      url: 'https://melissadeleonx.github.io/',
       repo: 'https://github.com/gaurav-sarage/ecommerce',
       img: 'https://user-images.githubusercontent.com/85820227/231498672-64b2e2ff-d987-45a3-bca6-5d8d89759360.png',
       year: 2022,
-      tags: ['React', 'Redux', 'Express', 'MongoDB'],
+      tags: ['HTML', 'CSS', 'JavaScript'],
     },
     {
       id: getId(),
