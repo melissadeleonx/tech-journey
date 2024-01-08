@@ -21,6 +21,9 @@ const ThemeProvider = ({ children }: { children: React.ReactNode }) => {
 
   // SETTING THEMES ACCORDING TO DEVICE
   useEffect(() => {
+
+    setIsDarkMode(true);
+    
     if (
       window.matchMedia &&
       window.matchMedia('(prefers-color-scheme: dark)').matches

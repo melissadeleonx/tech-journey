@@ -19,7 +19,7 @@ const About = () => {
       <main className="flex gap-16 items-center lg:items-start flex-col lg:flex-row">
         <div className="space-y-4 lg:w-3/5">
           <p>
-          Hello! Welcome to my digital space. I'm Melissa, and while there may not be anything extraordinarily special about me, my aim is to develop the extraordinary. 
+          Welcome to my digital space! I'm Melissa, and while there may not be anything extraordinarily special about me, my aim is to develop the extraordinary. 
           With over 10 years of experience in Customer Service and Business Development, it was only last year that I discovered my true passion for Programming. 
           </p>
           <p>

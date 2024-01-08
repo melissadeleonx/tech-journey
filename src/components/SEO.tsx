@@ -13,7 +13,7 @@ const SEO = (seoData: Props) => {
   return (
     <Head>
       <title>{seoData.title}</title>
-      <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+      <link rel="icon" href="/favicon.ico" />
       <meta name="title" content={seoData.title} />
       <meta name="author" content={seoData.author} />
       <meta name="description" content={seoData.description} />
