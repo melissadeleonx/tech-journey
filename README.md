@@ -7,12 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/melissadeleonx">
-    <img src="https://img.shields.io/badge/follow-%40melissadeleonx%203.5k+-1DA1F2?label=XTwitter&logo=twitter&style=for-the-badge&color=blue" alt="Melissa De Leon's Twitter"/>
-  </a>
-  <a href="https://www.linkedin.com/in/melissadeleonx/">
-    <img src="https://img.shields.io/badge/LinkedIn-melissadeleonx-blue?style=for-the-badge&logo=linkedin" alt="Melissa De Leon's LinkedIn"/>
-  </a>  
   <a href="https://choosealicense.com/licenses/mit/">
     <img src="https://img.shields.io/badge/License-MIT-brightgreen"/ >
   </a>
@@ -20,6 +14,12 @@
 </p>  
 
 ![melissadeleonx-techjourney-portfolio](https://raw.githubusercontent.com/melissadeleonx/tech-journey/main/public/melissadeleonx-techjourney.png)
+<a href="https://twitter.com/melissadeleonx">
+    <img src="https://img.shields.io/badge/follow-%40melissadeleonx%203.5k+-1DA1F2?label=XTwitter&logo=twitter&style=for-the-badge&color=blue" alt="Melissa De Leon's Twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/melissadeleonx/">
+    <img src="https://img.shields.io/badge/LinkedIn-melissadeleonx-blue?style=for-the-badge&logo=linkedin" alt="Melissa De Leon's LinkedIn"/>
+</a>
 
 ## Sections
 
