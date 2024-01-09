@@ -156,6 +156,10 @@ mv path/to/your/resume.pdf public/resume.pdf
 - [ ] Add test cases
 - [ ] Separate route (archive) for all the projects with filters
 - [ ] Switch to Next 13
+- [ ] Domain Migration
+- [ ] Implement Search Engine Optimization
+- [ ] Integrate Google Search Console, Analytics, and Schema Markup
+- [ ] Submit a sitemap to search engines
 
 
 
