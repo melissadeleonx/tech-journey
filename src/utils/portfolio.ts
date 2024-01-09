@@ -79,13 +79,14 @@ export const heroSection: HeroSectionType = {
   description:
     "I transitioned from a background in SEO and customer service to embark on a journey into the world of programming. As part of my coding adventure, I'm actively engaged in building small programs to enhance my proficiency in software and web development.",
   specialText: "Junior Full-Stack Developer, currently studying Harvard CS50 courses and open to freelance opportunities",
-
+  
   cta: {
     title: 'see my resume',
     url: `/${resumeFileName}`,
     hideInDesktop: true,
   },
 };
+
 
 // * About Section
 
@@ -121,8 +122,8 @@ export const skillsSection: SkillsSectionType = {
       title: 'full stack development',
       // animation lottie file: https://lottiefiles.com/
       lottie: {
-        light: '/lotties/frontend.json',
-        dark: '/lotties/frontend-dark.json',
+        light: '/lotties/girlcomputer.json',
+        dark: '/lotties/girlcomputer.json',
       },
       points: [
         'Building responsive static websites with HTML, CSS, and JavaScript, leveraging frontend frameworks including React, Next.js, Gatsby, Tailwind CSS, and Bootstrap.',
