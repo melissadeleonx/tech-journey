@@ -79,7 +79,7 @@ export const heroSection: HeroSectionType = {
   description:
     "I transitioned from a background in SEO and customer service to embark on a journey into the world of programming. As part of my coding adventure, I'm actively engaged in building small programs to enhance my proficiency in software and web development.",
   specialText: "Junior Full-Stack Developer, currently studying Harvard CS50 courses and open to freelance opportunities",
-  
+
   cta: {
     title: 'see my resume',
     url: `/${resumeFileName}`,
@@ -262,7 +262,17 @@ export const projectsSection: ProjectsSectionType = {
       img: "/univvvflask.png",
       alt: "uniVVV Intergalactic Social Media Site Screenshot",
       year: 2023,
-      tags: ["Flask", "Python", "Jinja", "HTML", "Bootstrap CSS", "JavaScript", ],
+      tags: ["Flask", "Python", "Jinja", "HTML", "Bootstrap CSS", "JavaScript",],
+    },
+    {
+      id: getId(),
+      name: "CS50 Community Notes",
+      url: "https://melissadeleonx.github.io/cs50-community-notes",
+      repo: "https://github.com/melissadeleonx/cs50-community-notes",
+      img: "/cs50-community-notes.png",
+      alt: "CS50 Community Notes",
+      year: 2024,
+      tags: ["Markdown", "HTML", "CSS", "Boostrap", "Jekyll", "JavaScript", "YML", "GIT", "bash", "PDF", "jquery"],
     },
     {
       id: getId(),
@@ -282,7 +292,7 @@ export const projectsSection: ProjectsSectionType = {
       img: '/melissadeleonx-techjourney.png',
       alt: "Second Iteration of Melissa De Leon portfolio website",
       year: 2024,
-      tags: ['ReactJS', 'Next.js', 'TailwindCSS', 'CSS', 'JavaScript', 'Yarn', 'JSON'] ,
+      tags: ['ReactJS', 'Next.js', 'TailwindCSS', 'CSS', 'JavaScript', 'Yarn', 'JSON'],
     },
     {
       id: getId(),
